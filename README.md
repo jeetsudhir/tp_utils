@@ -18,7 +18,7 @@ To use `tp_utils`, follow these steps:
 
 ## Usage
 ### Setting a Teleport Point
-```tp_utils set <name>```\n
+```tp_utils set <name>```
 
 Example:
 
@@ -30,10 +30,12 @@ Example:
 ### Deleting Teleport Points
 To delete a specific teleport point:
 ```tp_utils delete <name>```
+
 To delete all teleport points:
 ```tp_utils delete --all```
 
 ### Teleporting
 ```tp_utils tp <name>```
+
 Example:
 ```tp_utils tp "work"```
