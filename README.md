@@ -28,14 +28,18 @@ Example:
 ```tp_utils list```
 
 ### Deleting Teleport Points
+
 To delete a specific teleport point:
+
 ```tp_utils delete <name>```
 
 To delete all teleport points:
+
 ```tp_utils delete --all```
 
 ### Teleporting
 ```tp_utils tp <name>```
 
 Example:
+
 ```tp_utils tp "work"```
