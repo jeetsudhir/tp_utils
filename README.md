@@ -18,8 +18,10 @@ To use `tp_utils`, follow these steps:
 
 ## Usage
 ### Setting a Teleport Point
-```tp_utils set <name>```
+```tp_utils set <name>```\n
+
 Example:
+
 ```tp_utils set "work"```
 
 ### Listing Teleport Points
