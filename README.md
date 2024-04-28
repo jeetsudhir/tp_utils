@@ -1,7 +1,7 @@
 # Teleport Utility (tp_utils)
 
 ## Description
-`tp_utils` is a command-line tool designed to facilitate teleportation within the terminal. It allows users to set, list, delete, and teleport to predefined points in the file system.
+`tp_utils` is a command-line tool designed to facilitate easy switching to different directories within the terminal. It allows users to set, list, delete, and move to predefined points in the file system.
 
 ## Features
 - **Set Teleport Point**: Set a new teleport point with a given name.
